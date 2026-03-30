@@ -77,7 +77,7 @@ cat apk_hash.txt >> analyse_info.txt
 
 ### Screenshot — Hash SHA-256 et fichier de traçabilité
 
-![Task 1 - Fichier traçabilité](screenshots/1774828990998_fichierTracabilite.png)
+![Task 1 - Fichier traçabilité](screenshots/fichierTracabilite.png)
 
 ### Résultats
 - Dossier de travail : `~/apk_analysis/2026-03-29/`
@@ -110,7 +110,7 @@ echo "MobSF version : v4.0.6" >> ~/apk_analysis/2026-03-29/analyse_info.txt
 
 ### Screenshot — Page de connexion MobSF
 
-![Task 2 - MobSF Login](screenshots/1774828991000_mobsf.png)
+![Task 2 - MobSF Login](screenshots/mobsf.png)
 
 ### Résultats
 - MobSF v4.0.6 opérationnel
@@ -125,11 +125,11 @@ Soumettre l'APK à MobSF pour analyse statique complète.
 
 ### Screenshot — Upload de l'APK
 
-![Task 3 - Upload APK](screenshots/1774828991001_uploadApk.png)
+![Task 3 - Upload APK](screenshots/uploadApk.png)
 
 ### Screenshot — Page de résultats MobSF (score 36/100)
 
-![Task 3 - Résultats analyse](screenshots/1774828990995_Analysedeapk.png)
+![Task 3 - Résultats analyse](screenshots/Analysedeapk.png)
 
 ### Résultats
 
@@ -152,7 +152,7 @@ Examiner le manifeste Android et identifier les configurations sensibles.
 
 ### Screenshot — Manifest Analysis
 
-![Task 4 - Manifest Analysis](screenshots/1774828990999_ManifestAnalisis.png)
+![Task 4 - Manifest Analysis](screenshots/ManifestAnalisis.png)
 
 ### Vulnérabilités identifiées
 
@@ -192,15 +192,15 @@ Identifier les vulnérabilités dans le code source et les bibliothèques native
 
 ### Screenshot — Code Analysis
 
-![Task 6 - Code Analysis](screenshots/1774828990997_codeAnalysis.png)
+![Task 6 - Code Analysis](screenshots/codeAnalysis.png)
 
 ### Screenshot — Binary Analysis
 
-![Task 6 - Binary Analysis](screenshots/1774828990997_BinaryAnalysis.png)
+![Task 6 - Binary Analysis](screenshots/BinaryAnalysis.png)
 
 ### Screenshot — Vulnérabilités documentées dans le terminal
 
-![Task 6 - Terminal vulnérabilités](screenshots/1774828991000_termVelunirabite.png)
+![Task 6 - Terminal vulnérabilités](screenshots/termVelunirabite.png)
 
 ### Code Analysis — 5 vulnérabilités
 
